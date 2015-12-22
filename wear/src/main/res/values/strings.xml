@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpeechInputDemo</string>
+    <string name="button">Speak</string>
+</resources>
